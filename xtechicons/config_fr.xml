@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>xtechicons</name>
+    <displayName><![CDATA[X-Tech Icons]]></displayName>
+    <version><![CDATA[1.0.2]]></version>
+    <description><![CDATA[Module to manage and display custom icons with title, description, and optional URL.]]></description>
+    <author><![CDATA[X-Tech]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

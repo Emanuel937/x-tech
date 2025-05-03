@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.list-d-flex{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    transition: transform 0.3s ease-in-out;
+    will-change: transform;
+}
+
+.category-item-list{
+    border: 1px solid lightgray;
+    max-width: 170px;
+    width: 100%;
+    height: 145px;
+    margin-left: 20px;
+    margin-top: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #d0d0d0de;
+    
+  
+
+}
+
+
+.category-item-list img{
+    height: 56px;
+    width: 56px;
+    object-fit: contain;
+    margin-bottom: 20px;
+  
+}
+
+.browser_title{
+    /* Browse By Category */
+
+
+/* Heading/36PX SemiBold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 48px;
+/* identical to box height, or 133% */
+letter-spacing: 0.04em;
+/* Text2 */
+color: #000000;
+margin-left: 30px;
+
+}
+
+.rect-style{
+    display: inline-block;
+    padding:10px;
+    border-radius: 4px;
+    height: 10px;
+    width: 60px;
+    background-color:#db4444;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.d-flex{
+ 
+        display: flex;
+        justify-content: space-between;
+      
+}
+
+.chevron{
+    background-color:rgba(211, 211, 211, 0.436);
+    border:1px solid lightgray;
+    margin-left: 10px;
+    height: 40px;
+}

@@ -1,0 +1,6 @@
+admin_xvirtualmodules_index:
+    path: /xvirtualmodules
+    methods: [GET]
+    defaults:
+        _controller: 'XvirtualModules\Controller\Admin\AdminXvirtualModules::indexAction'
+        _legacy_controller: AdminXvirtualModules

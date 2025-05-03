@@ -1,0 +1,10 @@
+{
+    "name": "xstudio/xvirtualmodules",
+    "description": "A virtual module for PrestaShop",
+    "autoload": {
+        "psr-4": {
+            "XvirtualModules\\": "src/"
+        }
+    },
+    "type": "prestashop-module"
+}
